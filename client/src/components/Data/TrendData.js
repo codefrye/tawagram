@@ -1,0 +1,30 @@
+export const TrendData=[
+    {
+        name:"MasalPuri",
+        shares:105
+    },
+    {
+        name:"Chicken Tandoori",
+        shares:80
+    },
+    {
+        name:"civetcoffe",
+        shares:75
+    },
+    {
+        name:"GordonRamsay",
+        shares:50
+    },
+    {
+        name:"KhanaKhazana",
+        shares:51
+    },
+    {
+        name:"BangloreRestruants",
+        shares:96
+    },
+    {
+        name:"StreetFOOd",
+        shares:46
+    }
+];
